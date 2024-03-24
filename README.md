@@ -1,5 +1,5 @@
 # penguins
-Penguins project test 
+Setup for the local execution of the Penguins project.
 
 
 ### Windows
@@ -8,4 +8,7 @@ Penguins project test
 2. Run **game.bat**
 
 
+### Linux
 
+1. Run **build.sh**
+1. Run **game.sh**
