@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\master\game.h" />
+    <ClInclude Include="..\master\game_io.h" />
+    <ClInclude Include="..\master\game_io_json.h" />
+    <ClInclude Include="..\master\game_master.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\master\game_io.c" />
+    <ClCompile Include="..\master\game_io_json.c" />
+    <ClCompile Include="..\master\game_master.c" />
+    <ClCompile Include="..\master\game_utils.c" />
+    <ClCompile Include="..\master\master.c" />
+  </ItemGroup>
+</Project>
