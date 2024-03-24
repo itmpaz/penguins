@@ -1,3 +1,13 @@
+
+
+
+
+.vs
+/visual_studio/*.user
+/visual_studio/master
+/visual_studio/player
+
+
 # Prerequisites
 *.d
 
